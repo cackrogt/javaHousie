@@ -1,4 +1,4 @@
-package housie;
+//package housie;
 /*
 have shared array
 recieve from players.(maybe another list for the winners. this is what is checked)
